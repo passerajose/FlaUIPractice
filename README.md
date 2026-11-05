@@ -1,2 +1,2 @@
 # FlaUIPractice
-FlaUI practice concepts over different applications.
+FlaUI practice concepts over different WPF applications.
